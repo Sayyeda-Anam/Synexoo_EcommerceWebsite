@@ -18,3 +18,5 @@ Send the filtered product data back to the frontend. MySQL: Stores website data 
 This allows for efficient data retrieval, updates, and management.
 
 Additional Functionalities: Security Considerations: Secure user login with password hashing. Sanitize user input to prevent SQL injection attacks.
+
+https://github.com/Sayyeda-Anam/shadowfox_Ecommerce_Website/assets/152056623/a95a5970-c13c-420f-aa37-bcc0dbe42bd5
